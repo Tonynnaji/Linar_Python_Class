@@ -1,0 +1,1 @@
+print = input("i am an artist \n i drew /\\/\\/\\") 
