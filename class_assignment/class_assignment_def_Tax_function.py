@@ -1,3 +1,5 @@
+#defining a tax function
+
 """
 print("Hello Welcome_ to_Tax_Calculator")
 user_name = input("what is your name? ") #name = Ade

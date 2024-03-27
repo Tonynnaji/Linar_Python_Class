@@ -1,4 +1,4 @@
-#class coding assignment 
+#class assignment on Algorithm 
 
 BB=int(input("enter_the_value_for_b: "))
 CC=int(input("enter_the_value_for_c: "))

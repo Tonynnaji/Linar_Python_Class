@@ -1,3 +1,5 @@
+#class assignment on Algorithm
+
 a=int(input("enter_the_value_for_a: "))
 n=int(input("enter_the_value_for_n: "))
 d=int(input("enter_the_value_for_d: "))

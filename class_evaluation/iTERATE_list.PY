@@ -1,3 +1,5 @@
+#class evaluation on iterating list
+
 list1 = [1, 2, 3]
 list2 = ['p', 'q', 'r']
 

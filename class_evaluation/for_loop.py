@@ -1,3 +1,4 @@
+#class evaluation on range
 
 for num in range (1,13):
    print(f'{num}*1 = {num* 1}')
