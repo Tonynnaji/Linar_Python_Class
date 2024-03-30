@@ -1,3 +1,5 @@
+#class evaluation on function
+
 """
 For WAEC
 0 - 39 = Fail

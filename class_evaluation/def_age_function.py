@@ -1,4 +1,4 @@
-
+#class 
 
 def agefunction (user_name = input("Enter your name?\n"),Y_O_B = int(input("Enter your year of birth?\n")), voting_year = int(input("Enter the election year?\n"))):
     """ This function helps to calculate the User_age for Eleectoral purposes """

@@ -9,7 +9,7 @@
 import math
 math.ceil 
 name = 'Ade'
-print(f'Hello {name}, we will like to help you calculate the quantity of coaster biscuit and the amount')
+print(f'Hello {name}, we will like to help you calculate the type of coaster biscuit bought, quantity and the amount')
 
 #Using type_big_50 naira_Coaster size
 big_small_carton = 4000 #45 pieces
