@@ -11,7 +11,7 @@ elif user_age >= 3 and user_age <= 12:
 elif user_age >= 3 and user_age <= 12:
     print("You should be in kiddagatten")
 elif user_age >= 13 and user_age <= 19:
-    print("You are a teenuser_ager")
+    print("You are a teenager")
 elif user_age >= 20 and user_age <= 29:
     print("You should be in the youth class")
 elif user_age >= 30 and user_age <= 49:

@@ -1,3 +1,5 @@
+#Class adssignment 
+
 print("Hello Welcome to Nigeria")
 name = input("what is your name?") #name = Ade
 date_of_birth = input("Enter your date of birth") #date_of birth = 17th May,2006
